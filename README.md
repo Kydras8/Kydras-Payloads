@@ -1,4 +1,4 @@
-# Kydras-Payloads# 💥 Kydras-Payloads
+💥 Kydras-Payloads
 
 Part of the **Kydras Offensive Toolkit Collection**, this repo focuses on **lightweight payloads**, **reverse shells**, and **droppers** — built for mobile operators using Termux and GrapheneOS.
 
