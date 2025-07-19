@@ -1,5 +1,10 @@
 💥 Kydras-Payloads
 
+![Payloads](https://img.shields.io/badge/type-Custom_Payloads-blueviolet)
+![Language](https://img.shields.io/badge/language-Mixed-lightgrey)
+![Stars](https://img.shields.io/github/stars/Kydras8/Kydras-Payloads.svg)
+![License](https://img.shields.io/badge/license-MIT-purple)
+
 Part of the **Kydras Offensive Toolkit Collection**, this repo focuses on **lightweight payloads**, **reverse shells**, and **droppers** — built for mobile operators using Termux and GrapheneOS.
 
 ---
