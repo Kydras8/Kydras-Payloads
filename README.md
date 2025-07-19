@@ -9,6 +9,12 @@ Part of the **Kydras Offensive Toolkit Collection**, this repo focuses on **ligh
 
 ---
 
+# 💥 Kydras-Payloads — Offensive Payload Arsenal
+
+This repository contains custom payloads, droppers, and staged attack chains designed for Red Team engagements.
+
+## 📁 Folder Structure
+
 ## ✅ Current Payloads
 - 📱 Android payload generator (msfvenom-based)
 - 🖥️ Simple reverse shell (bash one-liner)
