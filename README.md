@@ -14,6 +14,19 @@ Part of the **Kydras Offensive Toolkit Collection**, this repo focuses on **ligh
 This repository contains custom payloads, droppers, and staged attack chains designed for Red Team engagements.
 
 ## 📁 Folder Structure
+📁 payloads/
+├── windows/
+├── linux/
+├── droppers/
+└── obfuscation/
+
+## 🚀 Quick Start
+Explore pre-built payload examples and modify them for your Red Team ops. Intended for educational use in legal environments only.
+
+## 📅 Roadmap
+✅ Basic payload templates  
+🟣 Evasion-ready droppers (Coming Soon)  
+🟣 Advanced chained payloads (Coming Soon)  
 
 ## ✅ Current Payloads
 - 📱 Android payload generator (msfvenom-based)
