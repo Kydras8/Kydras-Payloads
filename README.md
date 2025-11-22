@@ -1,3 +1,11 @@
+<!-- Kydras Repo Header -->
+<p align="center">
+  <strong>Kydras Systems Inc.</strong><br/>
+  <em>Nothing is off limits.</em>
+</p>
+
+---
+
 💥 Kydras-Payloads
 
 ![Payloads](https://img.shields.io/badge/type-Custom_Payloads-blueviolet)
@@ -41,3 +49,4 @@ pkg install git metasploit -y
 git clone https://github.com/Kydras8/Kydras-Payloads.git
 cd Kydras-Payloads/payloads
 bash android-payload-lite.sh
+
